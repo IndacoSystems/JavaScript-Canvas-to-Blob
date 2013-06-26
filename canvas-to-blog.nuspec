@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <metadata>
+    <id>iCanvasToBlobJS</id>
+    <version>1.0.0</version>
+    <authors>blueimp</authors>
+    <owners>Indaco Systems</owners>
+    <description>Part of file uploader, modified by Indaco Systems</description>
+    <projectUrl>https://github.com/blueimp/jQuery-File-Upload</projectUrl>
+    <licenseUrl>http://www.apache.org/licenses/LICENSE-2.0</licenseUrl>
+    <tags>upload</tags>
+    <language>en-US</language>
+  </metadata>
+  <files>
+  <file src="canvas-to-blob.js" target="Content\Scripts\Lib\Vendor\CanvasToBlob\canvas-to-blob.js" />
+  </files>
+</package>
